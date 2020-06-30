@@ -1,3 +1,0 @@
-[submodule "packages"]
-	path = packages
-	url = https://github.com/manojvicky/2048.git
